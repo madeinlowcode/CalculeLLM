@@ -1,0 +1,5 @@
+{
+  "name": "LLM Cost Calculator",
+  "description": "An interactive web application to calculate and compare the costs of various popular Language Learning Models (LLMs). Users can select models, input token counts, and view detailed cost breakdowns and visual comparisons.",
+  "requestFramePermissions": []
+}
