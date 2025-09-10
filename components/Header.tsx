@@ -18,7 +18,7 @@ const Header: React.FC<HeaderProps> = ({ theme, toggleTheme }) => {
             </h1>
           </div>
           <div className="flex items-center space-x-2">
-            <a href="https://github.com" target="_blank" rel="noopener noreferrer" className="p-2 rounded-full text-slate-500 dark:text-slate-400 hover:bg-slate-200 dark:hover:bg-slate-700" aria-label="GitHub Repository">
+            <a href="https://github.com/madeinlowcode/CalculeLLM" target="_blank" rel="noopener noreferrer" className="p-2 rounded-full text-slate-500 dark:text-slate-400 hover:bg-slate-200 dark:hover:bg-slate-700" aria-label="GitHub Repository">
                 <GitHubIcon className="w-5 h-5" />
             </a>
             <a href="https://chat.whatsapp.com/JAaqJzXz88f2K1WyOPXDdk" target="_blank" rel="noopener noreferrer" className="p-2 rounded-full text-slate-500 dark:text-slate-400 hover:bg-slate-200 dark:hover:bg-slate-700" aria-label="WhatsApp Group">
